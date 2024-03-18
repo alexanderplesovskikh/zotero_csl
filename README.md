@@ -1,4 +1,5 @@
 # ZoteroCSL 🧪📝
+
 ## Обзор
 Библиографические стили стандарта [Citation Style Language (CSL) 1.0.2](https://docs.citationstyles.org/en/stable/specification.html) с использованием расширения [CSL-M: citeproc-js 1.1.73](https://citeproc-js.readthedocs.io/en/latest/csl-m/) для форматов: 
 * ГОСТ 7.0.5—2008
@@ -16,11 +17,10 @@
 
 | Параметр | Стиль 1: «Строгий» ГОСТ 7.0.5—2008 | [ГОСТ 7.0.5—2008](https://github.com/romanraspopov/GOST-styles-for-Zotero) |
 | --- | -------------------- | -------------------- |
-| Статья из рецензируемого журнала | 1. Замолодчиков Д. Г., Грабовский В. И., Краев Г. Н. Динамика бюджета углерода лесов России за два последних десятилетия // Лесоведение. 2015. № 6. С. 16—28. | 1.	Замолодчиков, Д. Г. Динамика бюджета углерода лесов России за два последних десятилетия / Д. Г. Замолодчиков, В. И. Грабовский, Г. Н. Краев // Лесоведение. – 2015. – № 6. – С. 16-28. |
-
-
-
-
+| Диапазон страниц отделяется тире вместо дефиса | 1. Замолодчиков Д. Г., Грабовский В. И., Краев Г. Н. Динамика бюджета углерода лесов России за два последних десятилетия // Лесоведение. 2015. № 6. С. 16`—`28. | 1.	Замолодчиков, Д. Г. Динамика бюджета углерода лесов России за два последних десятилетия / Д. Г. Замолодчиков, В. И. Грабовский, Г. Н. Краев // Лесоведение. – 2015. – № 6. – С. 16`-`28. |
+| Между атрибутами год, том, номер выпуска и т.д. отсутствует тире | 1. Translating climate risk assessments into more effective adaptation decision-making: The importance of social and political aspects of place-based climate risk / A. P. Kythreotis, M. Hannaford, C. Howarth, G. Bosworth // Environmental Science & Policy. 2024. Vol. 154. Art. no. 103705. DOI: 10.1016/j.envsci.2024.103705 | 1. Translating climate risk assessments into more effective adaptation decision-making: The importance of social and political aspects of place-based climate risk / A. P. Kythreotis, M. Hannaford, C. Howarth, G. Bosworth // Environmental Science & Policy. `–` 2024. `–` Vol. 154. `–` P. 103705. |
+| Поддержка DOI | 1. Recognition of climate-related risks for prehospital emergency medical service and emergency department in Finland – A Delphi study / H. Karstila, R. Ruuhela, R. Rajala, P. Roivainen // International Emergency Nursing. 2024. Vol. 73. Art. no. 101421. `DOI: 10.1016/j.ienj.2024.101421` | 1.	Recognition of climate-related risks for prehospital emergency medical service and emergency department in Finland – A Delphi study / H. Karstila, R. Ruuhela, R. Rajala, P. Roivainen // International Emergency Nursing. – 2024. – Vol. 73. – P. 101421. |
+| Поддержка Art. no.  | 1. Translating climate risk assessments into more effective adaptation decision-making: The importance of social and political aspects of place-based climate risk / A. P. Kythreotis, M. Hannaford, C. Howarth, G. Bosworth // Environmental Science & Policy. 2024. Vol. 154. `Art. no. 103705.` DOI: 10.1016/j.envsci.2024.103705 | 1.	Translating climate risk assessments into more effective adaptation decision-making: The importance of social and political aspects of place-based climate risk / A. P. Kythreotis, M. Hannaford, C. Howarth, G. Bosworth // Environmental Science & Policy. – 2024. – Vol. 154. – `P. 103705.` |
 
 Пример формирования библиографии:
 
