@@ -55,3 +55,11 @@
 > 1. Grote R., Kiese R., Grünwald T., Ourcival J.-M., Granier A. (2011). Modelling forest carbon balances considering tree mortality and removal. *Agricultural and Forest Meteorology* **151**(2): 179—190. (DOI: 10.1016/j.agrformet.2010.10.002)
 
 ▶ [CLECO (Journal of Institutional Studies, v.2).csl](https://gitverse.ru/alexandermcme/ZoteroCSL/content/main/CLECO%20(Journal%20of%20Institutional%20Studies%2C%20v.2).csl)
+
+## Установка в библиографическом менеджере Zotero
+Для установки скачайте необходимый стиль:
+
+`Правка > Настройки > Цитирование > + > Перейдите к скачанному стилю > Открыть > OK`
+
+## Совместимость с Zotero
+Версии протестированы в последней версии Zotero. Некоторые стили не являются валидными из-за расширения CSL-M: citeproc-js, такие стили тем не менее протестированы в Zotero и корректно работают в нём.
