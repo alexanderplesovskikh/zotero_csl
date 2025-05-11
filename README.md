@@ -11,7 +11,7 @@
 
 © **Авторы:** Александр Плесовских *(написание кода, тестирование, поддержка)*, Роман Гордеев *(консультирование и тестирование)*, Антон Пыжев *(идея, управление проектом, тестирование)*.
 
-![Zotero hero image](https://github.com/alexanderplesovskikh/zotero_csl/blob/main/zotero.png)
+![Zotero hero image](https://github.com/alexanderplesovskikh/zotero_csl/blob/main/zotero_csl.png)
 
 ## Стиль 1: «Строгий» ГОСТ 7.0.5—2008
 
